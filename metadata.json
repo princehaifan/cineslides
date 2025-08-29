@@ -1,0 +1,5 @@
+{
+  "name": "CineSlides",
+  "description": "An application to create viral, cinematic Instagram slide posts with text, effects, and watermarks. Leveraging AI to suggest creative captions.",
+  "requestFramePermissions": []
+}
